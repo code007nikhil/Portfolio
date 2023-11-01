@@ -29,6 +29,7 @@ nav{
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-between;
+    z-index: 99;
 
 }
 .logo{
@@ -381,6 +382,7 @@ nav .fas{
         align-items: start;
         padding-top: 50px;
         transition: right 0.5s;
+        z-index: 99;
     }
     nav ul li {
         margin: 10px 25px;
