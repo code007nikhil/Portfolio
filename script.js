@@ -78,6 +78,12 @@ var extradatawork = [
     link : "https://code007nikhil.github.io/Solar-system/"
   },
   {
+    img : "images/works/colourfind.png",
+    heading : "Find colors game",
+    disc : "HTML | CSS | JS ",
+    link : "https://code007nikhil.github.io/colour-find/"
+  },
+  {
     img : "images/works/tiltcards.png",
     heading : "Tilt Cards",
     disc : "HTML | CSS | JS ",
