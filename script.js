@@ -78,16 +78,22 @@ var extradatawork = [
     link : "https://code007nikhil.github.io/Solar-system/"
   },
   {
-    img : "images/works/colourfind.png",
-    heading : "Find colors game",
-    disc : "HTML | CSS | JS ",
-    link : "https://code007nikhil.github.io/colour-find/"
-  },
-  {
     img : "images/works/tiltcards.png",
     heading : "Tilt Cards",
     disc : "HTML | CSS | JS ",
     link : "https://code007nikhil.github.io/tilt-cards/"
+  },
+  {
+    img : "images/works/mindread.png",
+    heading : "Mind Read Fun Game",
+    disc : "HTML | CSS | JS",
+    link : "https://code007nikhil.github.io/mind-read/"
+  },
+  {
+    img : "images/works/colourfind.png",
+    heading : "Find colors game",
+    disc : "HTML | CSS | JS ",
+    link : "https://code007nikhil.github.io/colour-find/"
   },
   {
     img : "images/works/jokes.png",
@@ -138,12 +144,6 @@ var extradatawork = [
     heading : "Loader",
     disc : "HTML | CSS | JS",
     link : "https://code007nikhil.github.io/loader/welcome.html"
-  },
-  {
-    img : "images/works/mindread.png",
-    heading : "Mind Read Fun Game",
-    disc : "HTML | CSS | JS",
-    link : "https://code007nikhil.github.io/mind-read/"
   },
   {
     img : "images/works/responsiveNav.png",
