@@ -1,4 +1,5 @@
 
+
 var tablinks = document.getElementsByClassName("tab-links");
 var tabcontents = document.getElementsByClassName("tab-contents");
 
@@ -11,7 +12,7 @@ function activetab(tabname){
   }
   event.currentTarget.classList.add("active-links");
   document.getElementById(tabname).classList.add("active-tab");
-  
+
 }
 
 var sidemenu = document.getElementById("sidemenu");
@@ -71,6 +72,12 @@ initialworks();
 
 // all data here 
 var extradatawork = [
+  {
+    img : "images/works/chessclock.png",
+    heading : "Chess Timer",
+    disc : "HTML , CSS & JS used",
+    link : "https://code007nikhil.github.io/chess-timer/"
+  },
   {
     img : "images/works/SOLAR SYSTEM.png",
     heading : "Solar System",
